@@ -1,0 +1,25 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.sublime-workspace
+.sublime-project
+
+# Node (if ever added)
+node_modules/
+package-lock.json
+yarn.lock
+
+# Local backups
+*.bak
+.backup/
+
+# Environment
+.env
+.env.local
